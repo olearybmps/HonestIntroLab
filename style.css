@@ -1,0 +1,42 @@
+.adContainer {
+    border: solid #b9d0ba;
+    background-color: #b9d0ba;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+.leftArrow {
+    /* border: solid red; */
+    height: 30px;
+}
+
+.adTxt {
+    /* border: solid blue; */
+    height: 30px;
+}
+
+.adLink {
+    /* border: solid green; */
+    height: 30px;
+}
+
+.rightArrow {
+    /* border: solid red; */
+    height: 30px;
+}
+
+.navBar {
+    /* border: solid blue; */
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainPic {
+    width: 100%;
+}
+
+/* #top {
+    border-radius: 22px;
+} */
